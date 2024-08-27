@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Scripting
 - 💞️ I’m looking to collaborate on Git
 - 📫 How to reach me : you can't
-- 😄 Pronouns: fck tht
+- 😄 Pronouns: f tht
 - ⚡ Fun fact: I know where you live
 
 <!---
